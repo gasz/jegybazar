@@ -1,8 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 /* global css*/
-/*html{
+html{
   font-size: 12px;
-}*/
+}
 body {
   min-height: 100vh;
   display: flex;
@@ -50,8 +50,8 @@ footer {
 }
 
 
-/*@media (min-width:768px){
+@media (min-width:768px){
   html{
     font-size:16px;
   }
-}*/
+}
