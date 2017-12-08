@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./nav.component.css']
 })
 export class NavComponent implements OnInit {
-  isCollapsed: false;
+  isCollapsed: true;
 
   collapsed(event: any): void {
     console.log(event);
