@@ -11,5 +11,4 @@ export class EventcardComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
