@@ -6,6 +6,7 @@ import {EventListComponent} from './event/event-list/event-list.component';
 import {EventDetailComponent} from './event/event-detail/event-detail.component';
 import {TicketComponent} from './ticket/ticket.component';
 import {TicketListComponent} from './ticket/ticket-list/ticket-list.component';
+
 import {TicketDetailsComponent} from './ticket/ticket-details/ticket-details.component';
 import {BidComponent} from './ticket/bid/bid.component';
 import {LoginComponent} from './user/login/login.component';
